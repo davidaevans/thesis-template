@@ -6,4 +6,4 @@
 *.gz
 *.toc
 .DS_Store
-*.pdf
+main.pdf
