@@ -7,3 +7,6 @@
 *.toc
 .DS_Store
 main.pdf
+*.bbl
+*.blg
+*.xml

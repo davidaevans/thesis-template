@@ -42,6 +42,7 @@
 
 % Start of chapters
 \input{chapters/intro}
+\nocite{*}
 \input{chapters/chapter2}
 
 \appendix
@@ -49,8 +50,8 @@
 \titleformat{\chapter}[display]{\sc\LARGE}{Appendix \thechapter}{1em}{}
 \input{appendices/appendix1}
 
-
-%\bibliographystyle{JHEP}
-\bibliography{bibliography}
+% \bibstyle{JHEP}
+% \bibliography{bibliography}
+\printbibliography
 
 \end{document}
