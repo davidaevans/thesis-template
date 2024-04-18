@@ -261,6 +261,7 @@
   \doublespacing
 \fi
 
+
 % -------------------------------------------- %
 % ---- Add to TOC automatically commands ----- %
 
